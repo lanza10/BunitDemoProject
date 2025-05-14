@@ -1,0 +1,2608 @@
+{
+  "Version": 1,
+  "Hash": "ty4j+y9u85cln0OtYmvr/hec92BBEu/AjnPNso95XU8=",
+  "Source": "BUnitDemoProject",
+  "BasePath": "_content/BUnitDemoProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BUnitDemoProject\\wwwroot",
+      "Source": "BUnitDemoProject",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\4p4bi8aun5-iyqrugf8bn.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "index#[.{fingerprint=iyqrugf8bn}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lxskw83pse",
+      "Integrity": "eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8iasuhktmm-zr2e1k7grk.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "BUnitDemoProject#[.{fingerprint=zr2e1k7grk}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BUnitDemoProject.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ynkd6bw1lb",
+      "Integrity": "IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BUnitDemoProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8no187ih7o-iag0ou56lh.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "sample-data/weather#[.{fingerprint=iag0ou56lh}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\sample-data\\weather.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4cbitfuojg",
+      "Integrity": "HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\as94ow0dmv-zr2e1k7grk.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "BUnitDemoProject#[.{fingerprint=zr2e1k7grk}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BUnitDemoProject.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ynkd6bw1lb",
+      "Integrity": "IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BUnitDemoProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\j89cfbsbhg-bpk8xqwxhs.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "li2ohn2azb",
+      "Integrity": "vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\kw5z3bract-8inm30yfxf.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m532s4naxw",
+      "Integrity": "epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\vnn48ghmjd-swsybuv5hr.gz",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "css/app#[.{fingerprint=swsybuv5hr}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "brgmcpbch1",
+      "Integrity": "Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BUnitDemoProject.styles.css",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "BUnitDemoProject#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "zr2e1k7grk",
+      "Integrity": "cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BUnitDemoProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BUnitDemoProject.bundle.scp.css",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "BUnitDemoProject#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "zr2e1k7grk",
+      "Integrity": "cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BUnitDemoProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\app.css",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "swsybuv5hr",
+      "Integrity": "JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\favicon.png",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\icon-192.png",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "icon-192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9uvjujlxy",
+      "Integrity": "DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\index.html",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iyqrugf8bn",
+      "Integrity": "Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\sample-data\\weather.json",
+      "SourceId": "BUnitDemoProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\",
+      "BasePath": "_content/BUnitDemoProject",
+      "RelativePath": "sample-data/weather#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iag0ou56lh",
+      "Integrity": "enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "BUnitDemoProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\as94ow0dmv-zr2e1k7grk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000703729768"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BUnitDemoProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\as94ow0dmv-zr2e1k7grk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.styles.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8iasuhktmm-zr2e1k7grk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000703729768"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.styles.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BUnitDemoProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.styles.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8iasuhktmm-zr2e1k7grk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.zr2e1k7grk.bundle.scp.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\as94ow0dmv-zr2e1k7grk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000703729768"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr2e1k7grk"
+        },
+        {
+          "Name": "label",
+          "Value": "BUnitDemoProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.zr2e1k7grk.bundle.scp.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BUnitDemoProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr2e1k7grk"
+        },
+        {
+          "Name": "label",
+          "Value": "BUnitDemoProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.zr2e1k7grk.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\as94ow0dmv-zr2e1k7grk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr2e1k7grk"
+        },
+        {
+          "Name": "label",
+          "Value": "BUnitDemoProject.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.zr2e1k7grk.styles.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8iasuhktmm-zr2e1k7grk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000703729768"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr2e1k7grk"
+        },
+        {
+          "Name": "label",
+          "Value": "BUnitDemoProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.zr2e1k7grk.styles.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BUnitDemoProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr2e1k7grk"
+        },
+        {
+          "Name": "label",
+          "Value": "BUnitDemoProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRmf5NdXS4PZQDSzi0Z6JUFKUk84E+e1SPek8HybLsw="
+        }
+      ]
+    },
+    {
+      "Route": "BUnitDemoProject.zr2e1k7grk.styles.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8iasuhktmm-zr2e1k7grk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr2e1k7grk"
+        },
+        {
+          "Name": "label",
+          "Value": "BUnitDemoProject.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IkTmJL9sR7zcbeZWq7+3en1S3NHFgaqzApnqucpOl+g="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\vnn48ghmjd-swsybuv5hr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000518672199"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1927"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\vnn48ghmjd-swsybuv5hr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.swsybuv5hr.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\vnn48ghmjd-swsybuv5hr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000518672199"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1927"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swsybuv5hr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.swsybuv5hr.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swsybuv5hr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.swsybuv5hr.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\vnn48ghmjd-swsybuv5hr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swsybuv5hr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vz4zDvbi7nBYTkg6DxnnrUXXFBBVrkQChRhkKuIQ7rI="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\j89cfbsbhg-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041925205"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\j89cfbsbhg-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\j89cfbsbhg-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041925205"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\kw5z3bract-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\kw5z3bract-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\j89cfbsbhg-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vS+1ufj92SdpGYtqXPqzcZfZweLNck5DdvtrYoo0Ruc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\kw5z3bract-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\kw5z3bract-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "icon-192.f9uvjujlxy.png",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\icon-192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9uvjujlxy"
+        },
+        {
+          "Name": "label",
+          "Value": "icon-192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+        }
+      ]
+    },
+    {
+      "Route": "icon-192.png",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\icon-192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\4p4bi8aun5-iyqrugf8bn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002150537634"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\4p4bi8aun5-iyqrugf8bn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0="
+        }
+      ]
+    },
+    {
+      "Route": "index.iyqrugf8bn.html",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\4p4bi8aun5-iyqrugf8bn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002150537634"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyqrugf8bn"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8="
+        }
+      ]
+    },
+    {
+      "Route": "index.iyqrugf8bn.html",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyqrugf8bn"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Os853YufMcBPCBVf53h+Dx8oU9xZOlj5zwrcePzNfV8="
+        }
+      ]
+    },
+    {
+      "Route": "index.iyqrugf8bn.html.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\4p4bi8aun5-iyqrugf8bn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyqrugf8bn"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eX9NxKoFBWQDMksErOiHzSLmVpStnopy7cQlb7hzGx0="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/weather.iag0ou56lh.json",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8no187ih7o-iag0ou56lh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006493506494"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iag0ou56lh"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/weather.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/weather.iag0ou56lh.json",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\sample-data\\weather.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iag0ou56lh"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/weather.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/weather.iag0ou56lh.json.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8no187ih7o-iag0ou56lh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iag0ou56lh"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/weather.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/weather.json",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8no187ih7o-iag0ou56lh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006493506494"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/weather.json",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\wwwroot\\sample-data\\weather.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/weather.json.gz",
+      "AssetFile": "C:\\Users\\javierln\\source\\repos\\BUnitDemoProject\\BUnitDemoProject\\obj\\Debug\\net9.0\\compressed\\8no187ih7o-iag0ou56lh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk="
+        }
+      ]
+    }
+  ]
+}

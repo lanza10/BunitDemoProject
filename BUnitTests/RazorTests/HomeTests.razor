@@ -1,0 +1,33 @@
+@using Bunit
+@using Xunit
+@using BUnitDemoProject.Pages
+@inherits Bunit.TestContext
+
+@code {
+    [Fact]
+    public void Home_ShouldRenderAsExpected()
+    {
+        // Arrange
+        var cut = Render(@<Home/>);
+
+        // Assert
+        cut.MarkupMatches(@"
+                        <h1>Hello, world!</h1>
+                        Welcome to your new app.");
+    }
+    
+    [Fact]
+    public void Home2_ShouldRenderAsExpected()
+    {
+        // Arrange
+        var cut = Render(@<Home2/>);
+
+        // Assert
+        cut.MarkupMatches(@"
+                        <h1>Counter</h1>
+                        <p role=""status"">Current count: 0</p>
+                        <button class=""btn btn-primary"" >Click me</button>
+                        <h1>Hello, world!</h1>
+                        Welcome to your new app.");
+    }
+}
