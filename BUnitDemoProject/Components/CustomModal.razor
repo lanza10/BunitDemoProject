@@ -1,0 +1,7 @@
+
+<div class="modal" style="display: @(_isClosed ? "none" : "block"); width: 300px; height: 500px;">
+    <h1>@Title</h1>
+    <p>@Body</p>
+    @ChildContent
+    <CustomButton ButtonCss="btn-primary" OnClick="CloseModal"></CustomButton>
+</div>

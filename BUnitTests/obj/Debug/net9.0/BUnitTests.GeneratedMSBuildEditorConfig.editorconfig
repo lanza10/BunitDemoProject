@@ -24,6 +24,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UmF6b3JUZXN0c1xDb3VudGVyVGVzdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/javierln/source/repos/BUnitDemoProject/BUnitTests/RazorTests/CustomButtonTests.razor]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JUZXN0c1xDdXN0b21CdXR0b25UZXN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/javierln/source/repos/BUnitDemoProject/BUnitTests/RazorTests/CustomModalTests.razor]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JUZXN0c1xDdXN0b21Nb2RhbFRlc3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/javierln/source/repos/BUnitDemoProject/BUnitTests/RazorTests/HomeTests.razor]
 build_metadata.AdditionalFiles.TargetPath = UmF6b3JUZXN0c1xIb21lVGVzdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

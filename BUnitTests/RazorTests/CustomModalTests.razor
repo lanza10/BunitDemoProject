@@ -1,0 +1,24 @@
+@using Bunit
+@using Xunit
+@using BUnitDemoProject.Components
+@inherits Bunit.TestContext
+
+@code {
+
+    [Fact]
+    public void CustomModal_ShouldRenderAsExpected()
+    {
+        // Arrange
+        var cut = Render(@<CustomModal 
+                              Title="Test Modal" 
+                              Body="Body Text"/>);
+        // Assert
+        cut.MarkupMatches(@<div class="modal" style="display: none; width: 300px; height: 500px;">
+                              <h1>Test Modal</h1>
+                              <p>Body Text</p>
+                              <CustomButton ButtonCss="btn-primary" ></CustomButton>
+                          </div>);
+        
+    }
+
+}

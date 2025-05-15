@@ -39,3 +39,4 @@ C:\Users\javierln\source\repos\BUnitDemoProject\BUnitDemoProject\obj\Debug\net9.
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitDemoProject\obj\Debug\net9.0\BUnitDemoProject.pdb
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitDemoProject\obj\Debug\net9.0\BUnitDemoProject.genruntimeconfig.cache
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitDemoProject\obj\Debug\net9.0\ref\BUnitDemoProject.dll
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitDemoProject\obj\Debug\net9.0\BUnitDemoProject.sourcelink.json

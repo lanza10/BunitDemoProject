@@ -1,0 +1,40 @@
+@using Bunit
+@using Xunit
+@using BUnitDemoProject.Components
+@inherits Bunit.TestContext
+
+@code {
+    [Fact]
+    public void CustomButton_ShouldRenderAsExpected()
+    {
+        // Arrange
+        var cut = Render(@<CustomButton Text="Click me" Disabled="true" ButtonCss="btn-primary" />);
+
+        // Assert
+        cut.MarkupMatches(@<div class="">
+                              <button disabled="" class="btn btn-primary">Click me</button>
+                          </div>);
+    }
+    
+    [Fact]
+    public void CustomButton_ShouldExecuteExpectedMethod()
+    {
+        var test = 0;
+        Action onClick = () => { test += 10; };
+        
+        var cut = Render(@<CustomButton 
+                              Text="Click me" 
+                              ButtonCss="btn-primary"
+                              OnClick="onClick" />);
+        
+        
+        cut.Find("button").Click();
+        Assert.Equal(10, test);
+        
+        cut.Find("button").Click();
+        cut.Find("button").Click();
+        Assert.Equal(30, test);
+        
+        cut.Find("button").MarkupMatches(@<button class="btn btn-primary">Click me</button>);
+    }
+}

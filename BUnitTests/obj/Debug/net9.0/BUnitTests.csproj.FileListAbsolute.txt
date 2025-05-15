@@ -148,3 +148,4 @@ C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\refi
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.pdb
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.genruntimeconfig.cache
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\ref\BUnitTests.dll
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.sourcelink.json
