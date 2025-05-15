@@ -17,6 +17,7 @@ public partial class CustomModal
     public void OpenModal()
     {
         _isClosed = false;
+        StateHasChanged();
     }
     private void CloseModal()
     {

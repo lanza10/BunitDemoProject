@@ -1,23 +1,22 @@
-using System.Net.Mime;
 using Bunit;
 using BUnitDemoProject.Components;
 using Xunit;
 
-namespace BUnitTests.CsTests;
+namespace BUnitTests.CombinedPartialTests;
 
-public class CustomModalCsTests : TestContext
+public partial class CustomModalTests : TestContext
 {
     [Fact]
-    public void CustomModal_ShouldRenderAsExpected()
+    public void CustomModal_ShouldRenderAsExpected_WhenOpened()
     {
-        // Arrange
         var cut = RenderComponent<CustomModal>(parameters => parameters
             .Add(m => m.Title, "Test Modal")
             .Add(m => m.Body, "Body Text")
             .AddChildContent("<a>Lorem Ipsum</a>"));
-            
-        // Assert
-        cut.MarkupMatches(@"<div class=""modal"" style=""display: none; width: 300px; height: 500px;"">
+
+        cut.InvokeAsync(() => cut.Instance.OpenModal());
+        
+        cut.MarkupMatches(@"<div class=""modal"" style=""display: block; width: 300px; height: 500px;"">
             <h1>Test Modal</h1>
             <p>Body Text</p>
             <a>Lorem Ipsum</a>

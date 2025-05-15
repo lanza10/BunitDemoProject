@@ -1,5 +1,5 @@
 ﻿@page "/weather"
-@inject HttpClient Http
+@inject IWeatherService Service;
 
 <PageTitle>Weather</PageTitle>
 
@@ -37,11 +37,11 @@ else
 }
 
 @code {
-    private WeatherForecast[]? forecasts;
-
+    private List<WeatherForecast>? forecasts;
+    
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        forecasts = await Service.GetWeatherForecasts(DateTime.Today);
     }
 
     public class WeatherForecast
@@ -53,5 +53,11 @@ else
         public string? Summary { get; set; }
 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    }
+
+   
+    public interface IWeatherService
+    {
+        Task<List<WeatherForecast>> GetWeatherForecasts(DateTime date);
     }
 }
