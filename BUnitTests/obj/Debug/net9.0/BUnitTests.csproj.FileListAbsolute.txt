@@ -4,7 +4,6 @@ C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUni
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.AssemblyInfoInputs.cache
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.AssemblyInfo.cs
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.csproj.CoreCompileInputs.cache
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\testhost.dll
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitDemoProject.deps.json
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitDemoProject.runtimeconfig.json
@@ -12,8 +11,6 @@ C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUni
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitDemoProject.staticwebassets.endpoints.json
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitDemoProject.exe
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\testhost.exe
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.staticwebassets.runtime.json
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.staticwebassets.endpoints.json
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.deps.json
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.runtimeconfig.json
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.dll
@@ -130,6 +127,16 @@ C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\zh-H
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitDemoProject.dll
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitDemoProject.pdb
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.csproj.Up2Date
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.dll
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\refint\BUnitTests.dll
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.pdb
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.genruntimeconfig.cache
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\ref\BUnitTests.dll
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.sourcelink.json
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.staticwebassets.runtime.json
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\bin\Debug\net9.0\BUnitTests.staticwebassets.endpoints.json
+C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\scopedcss\bundle\BUnitTests.styles.css
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\compressed\f32kn295nz-gcvjxldlff.gz
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\compressed\fv8m0xekvo-mmbw8foen3.gz
@@ -142,10 +149,3 @@ C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\stat
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BUnitTests.props
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BUnitTests.props
 C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.csproj.Up2Date
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.dll
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\refint\BUnitTests.dll
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.pdb
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.genruntimeconfig.cache
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\ref\BUnitTests.dll
-C:\Users\javierln\source\repos\BUnitDemoProject\BUnitTests\obj\Debug\net9.0\BUnitTests.sourcelink.json

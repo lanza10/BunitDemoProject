@@ -17,16 +17,6 @@
          Assert.Equal(5, rows.Count);
      }
     
-    [Fact(Skip = "This test must fail")]
-    public void WeatherForecast_ShouldFailOnInjectingAsyncService()
-    {
-        Services.AddSingleton<Weather.IWeatherService>(new DelayedWeatherService(5));
-        var cut = Render(@<Weather />);
-        
-        var rows = cut.FindAll("tbody > tr");
-        
-        Assert.Equal(5, rows.Count);
-    }
     
     [Fact]
     public void WeatherForecast_ShouldInjectService()
